@@ -35,6 +35,7 @@ I'm particularly excited about applying these techniques to advance our fundamen
 ### 🧪 Scientific Software
 - VASP
 - CP2K
+- LASP
 - LAMMPS
 
 ## 📫 Let's Connect!
