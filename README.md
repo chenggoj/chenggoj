@@ -12,6 +12,7 @@ My research interests are as diverse as they are deep, spanning:
 - 🔬 Density Functional Theory
 - 🌀 Molecular Dynamics Simulations
 - 🎲 Monte Carlo Simulations
+- 🔮 Deep Learning Interatomic Potentials for Simulations
 
 I'm particularly excited about applying these techniques to advance our fundamental understanding of catalysis at the atomic scale and to accelerate the discovery of high-performance materials through high-throughput screening.
 
@@ -33,10 +34,11 @@ I'm particularly excited about applying these techniques to advance our fundamen
 - Pandas, Seaborn, SciPy, ASE
 
 ### 🧪 Scientific Software
-- VASP
-- CP2K
-- LASP
-- LAMMPS
+- VASP (https://www.vasp.at/)
+- CP2K (https://www.cp2k.org/)
+- LASP (http://lasphub.com/#/lasp/laspHome)
+- DeePMD-kit (https://github.com/deepmodeling/deepmd-kit)
+- LAMMPS (https://www.lammps.org/)
 
 ## 📫 Let's Connect!
 
